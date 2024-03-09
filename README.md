@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyasmc
+- 👋 Hi, I’m SHREYAS M C
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning DSA in Java
 - 📫 How to reach me shreyasmc2000@gmail.com
