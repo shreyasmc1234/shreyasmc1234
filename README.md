@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHREYAS M C
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning DSA in Java
+- 👀 I’m interested in Python Development and Data Engineering
+- 🌱 I’m currently learning DSA in Python
 - 📫 How to reach me shreyasmc2000@gmail.com
 
 
