@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python Development and Data Engineering
 - 🌱 I’m currently learning DSA in Python
 - 📫 How to reach me shreyasmc2000@gmail.com
+- 📫 LinkedIn https://www.linkedin.com/in/shreyas-m-c-6704b7209/
 
 
 <!---
