@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&width=435&lines=Thanks+for+visiting+my+profile+!;Let's+Connect+over+LinkedIn+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&width=435&lines=Thanks+for+visiting+my+profile+!;I'm+glad+to+Connect+over+LinkedIn+!" alt="Typing SVG" /></a>
 </div>
 
 <br/>
