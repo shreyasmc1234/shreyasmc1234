@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&width=435&lines=Thanks+for+visiting+my+profile+!;Let's+Connect+over+LinkedIn+!" alt="Typing SVG" /></a>
 </div>
 
 <br/>
