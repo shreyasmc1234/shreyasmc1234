@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🙌 I’m interested in **Python Development and Data Engineering**
+ 🙌 I’m interested in **Snowflake Datawarehousing, Python Development and Data Engineering**
  
  🌱 I’m currently learning **DSA and Cloud Computing**
 
- 🧑‍💻 I'm working as a **Data Engineer at Infosys**
+ 🧑‍💻 I'm working as a **Snowflake Data Engineer at Infosys**
 
  ❄️ My skills includes **Python, Snowflake, Azure, DBMS, SQL, Unix, Data Pipelines, Airflow, Apache Spark**
 
