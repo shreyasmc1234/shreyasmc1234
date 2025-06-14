@@ -37,7 +37,7 @@
 <h2 align="center"> Languages_Frameworks_Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,mongodb,sqlite,java,azure" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,mongodb,sqlite,java,aws" />
     <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm" /><br>
 </div>
 
