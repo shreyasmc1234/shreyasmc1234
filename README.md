@@ -18,7 +18,7 @@
 
  🧑‍💻 I'm working as a **Snowflake Data Engineer at Infosys**
 
- ❄️ My skills includes **Python, Snowflake, Azure, DBMS, SQL, Unix, Data Pipelines, Airflow, Apache Spark**
+ ❄️ My skills includes **Python, Snowflake, AWS, DBMS, SQL, Unix, Keystone Data Pipelines, Airflow, Apache Spark**
 
  </div>
  
